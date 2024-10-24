@@ -2,3 +2,4 @@ actividad GA7-220501096-AA1-EV05 herramientas de versionamiento (GIT) instalada 
 configurada.
 
 nombre de usuario julietfer correo juliet.navarrete@soy.sena.edu.co
+realizando prueba en el video final
